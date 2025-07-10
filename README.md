@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Jeremy Phillips! 👋
+I'm an MS in Artificial Intelligence student 🤖 at the University of Colorado Boulder.
 
-<!--
-**codingadventurestoday/codingadventurestoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current focus involves building impactful AI Agents for small businesses 🚀 and diving deep into the foundational mathematics of Artificial Intelligence to truly understand its core. 🧠
 
-Here are some ideas to get you started:
+My Interests
+Building AI models to solve everyday problems: I'm passionate about creating practical AI solutions that genuinely help people in their daily lives. 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring Machine Learning: I love learning about new ML techniques, algorithms, and how they can be applied to complex datasets. 📊
+
+Open-source contributions: I enjoy contributing to and collaborating on projects that benefit the wider developer community. 🤝
+
+Technologies I Use
+Here are some of the tools and technologies I work with:
+
+Programming Languages: Python, Go 🐍
+
+Machine Learning Frameworks: TensorFlow, PyTorch, scikit-learn ✨
+
+Cloud & DevOps: Terraform, Google Cloud Platform (GCP) ☁️
+
+Version Control: Git, GitHub 🧑‍💻
+
+Let's Connect!
