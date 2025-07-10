@@ -1,15 +1,15 @@
-#Hi, I'm Jeremy Phillips! 👋
+# Hi, I'm Jeremy Phillips! 👋
 I'm an **MS in Artificial Intelligence student** 🤖 at the University of Colorado Boulder.
 
 My current focus involves **building impactful AI Agents for small businesses** 🚀 and diving deep into the **foundational mathematics of Artificial Intelligence** to truly understand its core. 🧠
 ___
-###My Interests
+### My Interests
 + **Building AI models to solve everyday problems:** I'm passionate about creating practical AI solutions that genuinely help people in their daily lives. 💡
 
 + **Exploring Machine Learning:** I love learning about new ML techniques, algorithms, and how they can be applied to complex datasets. 📊
 ___
 
-###Technologies I Use
+### Technologies I Use
 Here are some of the tools and technologies I work with:
 
 + **Programming Languages:** Python, Go 🐍
@@ -20,4 +20,4 @@ Here are some of the tools and technologies I work with:
 
 + **Version Control:** Git, GitHub 🧑‍💻
 ___
-###Let's Connect!
+### Let's Connect!
